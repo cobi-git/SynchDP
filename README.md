@@ -11,9 +11,9 @@ import numpy as np
 
 #Hyper-parameter
 day_gap = 0.1
-pcut = 0.4
-ucut = 0.2
-window = 6
+pcut = 0.7
+ucut = 5
+window = 3
 candidate = 10
 
 #data
