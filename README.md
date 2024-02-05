@@ -7,7 +7,7 @@ The module can then be loaded and used as follows:
 
 ```python
 from SynchDP import SynchDp
-import numpy as np
+import pandas as pd
 
 #Hyper-parameter
 day_gap = 0.1
