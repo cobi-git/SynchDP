@@ -1,4 +1,4 @@
-# generate tutorial data example input
+# Generate tutorial data example input
 python generate_example_inputs.py
 
 # SynchDP alignment with reference sequence guided
