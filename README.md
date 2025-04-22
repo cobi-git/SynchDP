@@ -18,7 +18,7 @@ This algorithm was originally developed for aligning disease progression pattern
 
 ---
 
-## 🔧 Installation
+## 🛠️ Installation
 
 We recommend using a virtual environment with the following packages:
 
@@ -39,7 +39,7 @@ python-louvain
 ---
 
 
-## 🧪 Tutorial Usage
+## 📘 Tutorial Usage
 
 You can follow the step-by-step usage examples in the `tutorial/` folder.
 
@@ -105,7 +105,7 @@ python src/synchdp.py \
 
 ---
 
-### 🧩 Notes
+### 💡 Notes
 
 - `--mode` can be either `reference` or `denovo`
 - `-o` (or `--output_dir`) specifies the output directory
@@ -113,7 +113,7 @@ python src/synchdp.py \
 
 ---
 
-### 🔧 Command Line Options
+### 🖥️ Command Line Options
 
 | Option           | Description                                                    |
 |------------------|----------------------------------------------------------------|
@@ -169,6 +169,6 @@ SynchDP/
 ```
 
 
-## 📬 Contact
+## 📮 Contact
 
 For questions, issues, or contributions, please open an issue or reach out via GitHub.
