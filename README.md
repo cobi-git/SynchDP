@@ -1,6 +1,6 @@
 # SynchDP: A Correlation Based Sequence Alignment Algorithm for Synchronizing Longitudinal Clinical Data
 
-Time-series data in the real world—such as biological signals or power consumption logs—often contain asynchronous patterns due to delays or sampling differences.  
+Time-series data in the real world, such as biological signals, often contain asynchronous patterns due to delays or sampling differences.  
 **SynchDP** is a local alignment algorithm designed to synchronize such time-series data using **dynamic programming based on Pearson correlation**.
 
 This algorithm was originally developed for aligning disease progression patterns in clinical data, but its flexible structure allows application to any domain involving time-series analysis.
